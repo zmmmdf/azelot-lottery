@@ -49,7 +49,7 @@ Experience the excitement of online lotteries with AZELOT, a Flask-based web app
 
 ## Support:
 
-For any issues or questions, reach out to our support team at support@azelot.com.
+For any issues or questions, reach out to our support team at ziyam8@icloud.com.
 
 Join AZELOT now and elevate your online lottery experience!
 
